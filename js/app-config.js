@@ -23,7 +23,7 @@ const APP_CONFIG = {
             icon: `<svg class="download-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M192 128c-35.3 0-64 28.7-64 64v640c0 35.3 28.7 64 64 64h640c35.3 0 64-28.7 64-64V192c0-35.3-28.7-64-64-64H192zm128 192h384v64H320v-64zm0 160h384v64H320v-64zm0 160h256v64H320v-64z"/><circle cx="704" cy="544" r="96" fill="#ff7d29"/><path d="M704 496v96m-48-48h96" stroke="#fff" stroke-width="16" stroke-linecap="round"/></svg>`,
             text: "全网漫画动漫同人·点此进入",
             desc: "安卓版「主线路」",
-            link: "/pages/index.html"
+            link: "pages/index.html"
         },
         {
             version:"3.2.6",
@@ -189,10 +189,10 @@ const APP_CONFIG = {
         canvasHeight: 2400,
         // 海报随机背景图集，替代原固定appImgUrl
         bgImageList: [
-            "/image/615/a615-1.jpg",
-            "/image/615/a615-2.jpg",
-            "/image/615/a615-3.jpg",
-            "/image/615/a615-4.jpg"
+            "image/615/a615-1.jpg",
+            "image/615/a615-2.jpg",
+            "image/615/a615-3.jpg",
+            "image/615/a615-4.jpg"
         ],
         // 新增海报遮罩、圆角配置
         imgRadius: 18,
