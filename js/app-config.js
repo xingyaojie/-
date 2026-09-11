@@ -23,7 +23,7 @@ const APP_CONFIG = {
             icon: `<svg class="download-icon" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><path d="M192 128c-35.3 0-64 28.7-64 64v640c0 35.3 28.7 64 64 64h640c35.3 0 64-28.7 64-64V192c0-35.3-28.7-64-64-64H192zm128 192h384v64H320v-64zm0 160h384v64H320v-64zm0 160h256v64H320v-64z"/><circle cx="704" cy="544" r="96" fill="#ff7d29"/><path d="M704 496v96m-48-48h96" stroke="#fff" stroke-width="16" stroke-linecap="round"/></svg>`,
             text: "全网漫画动漫同人·点此进入",
             desc: "安卓版「主线路」",
-            link: "pages/index.html"
+            link: "https://pan.quark.cn/s/e24f30bf4ea9"
         },
         {
             version:"3.2.6",
@@ -220,7 +220,7 @@ const APP_CONFIG = {
             { content: "笔趣阁", fontSize: 52, fontWeight: 600, color: "#ffffff", align: "left", letterSpacing: 2, lineSpacing: 1.8 },
             { content: "最新版笔趣阁，白月光回归", fontSize: 52, fontWeight: 300, color: "#ffffff", align: "left", letterSpacing: 2, lineSpacing: 1.8 },
             { content: "安卓/iOS/鸿蒙/电脑/iPad", fontSize: 52, fontWeight: 300, color: "#ffffff", align: "left", letterSpacing: 1.8, lineSpacing: 1.8 },
-            { content: `认准官网：biqug.at`, fontSize: 52, fontWeight: 300, color: "#ffffff", align: "left", letterSpacing: 2, lineSpacing: 1.8 }
+            { content: `认准官网：xingyaojie.github.io/-/`, fontSize: 52, fontWeight: 300, color: "#ffffff", align: "left", letterSpacing: 2, lineSpacing: 1.8 }
         ],
         // 字体全局配置（原poster独立字体配置移入imageGen）
         useCustomFont: false,
